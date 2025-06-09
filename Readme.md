@@ -3,3 +3,5 @@
 <!-- nodemon file jaise lode hoti hai server restart kar deta hai ,
 npm i -D nodemon
  -->
+ <!--prettier file jaise lode hoti hai code format kar deta hai ,
+ npm i -D prettier -->

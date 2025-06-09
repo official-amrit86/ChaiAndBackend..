@@ -1,0 +1,6 @@
+*.env
+.env
+.env.*
+/.vscod
+/node_modules
+./dist
