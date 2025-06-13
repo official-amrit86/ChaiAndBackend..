@@ -5,3 +5,5 @@ npm i -D nodemon
  -->
  <!--prettier file jaise lode hoti hai code format kar deta hai ,
  npm i -D prettier -->
+ <!-- "dev": "nodemon src/index.js" -->
+  <!-- "dev": "nodemon -r dotenv/config --experimental-json-modules src/index.js" -->
